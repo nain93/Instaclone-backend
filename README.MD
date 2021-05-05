@@ -12,5 +12,3 @@ Instaclone Backend.
 - [ ] Unfollow User
 - [ ] Change Avatar (Image Upload) 
 
-
-// npx prisma studio
